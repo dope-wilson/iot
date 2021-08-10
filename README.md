@@ -5,7 +5,7 @@ Researching opt. IoT network at home
 Site showing LoRa-coverage in Skane: https://www.thethingsnetwork.org/community/skane/
 
 **2x design paths**
-LTE (GSM/2/3G) or LoRa
+_Cellular (GSM/2/3/4G)_ or _LoRa_ or _Bluetooth mesh network_
 Easiness and HW-availability as decision req. 
 
 What would I like to build?

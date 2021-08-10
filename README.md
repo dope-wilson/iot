@@ -6,22 +6,22 @@ Site showing LoRa-coverage in Skane: https://www.thethingsnetwork.org/community/
 
 **2x design paths**
 LTE (GSM/2/3G) or LoRa
-Easiness and HW-availability as descision req. 
+Easiness and HW-availability as decision req. 
 
 What would I like to build?
-  **Irrigation and sensorstation for hops production**
-    Descritpion:
+  **Irrigation and sensor station for hops production**
+    Description:
       Activate drip irrigation from rain barrel depending on outdoor conditions. 
       
     Properties:
-      - Activate relay to open solonoid valve
+      - Activate relay to open solenoid valve
       - Temperature and humidity
       - Soil moist
-      - Water level in water barrel.   
+      - Water level in the water barrel.   
   
-  **Sensor suit and flow measurement for water fountain in stables**
+  **Sensor suit and flow measurement for a water fountain in stables**
     Description:
-      Sensor suit to automate maintenance and add warning system for stable managment
+      Sensor suit to automate maintenance and add warning system for stable management
     
     What would you like to measure?
       - Water flow
